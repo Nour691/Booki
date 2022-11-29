@@ -475,9 +475,7 @@ footer {
 
 @media (min-width:902px) and (max-width:1375px) {
 
-h1 {
-    color: red;
-}
+
 .AffichageH {
     margin-left: 1%;
 }
@@ -598,9 +596,7 @@ h1 {
 
 @media (min-width:805px) and (max-width:901px)  {
 
-    h1 {
-        color: green;
-    }
+
 .hebergement {
     height: 552px;
 }
@@ -726,6 +722,7 @@ h1 {
     }
 html, body {
     padding: 0;
+    margin-right: 0.2px;
 }
 
 header {
@@ -734,6 +731,7 @@ header {
 
 .hautdepage {
     flex-direction: column;
+    padding: 0px;
 }
 
 .bleu {
@@ -777,7 +775,7 @@ li {
 
 .HA2 {
     /* margin-right: 25%; */
-    padding: 0px 41% 12px 41%;
+    padding: 0px 35% 12px 35%;
 }
 
 .HA1:hover {
@@ -792,7 +790,7 @@ li {
     border-top: none;
     color: #0065FC;
     border-bottom: 2.3px solid #0065FC;
-    padding: 0px 41% 12px 41%;
+     padding: /*0px 39% 12px 34%*/ 0px 35% 12px 35%; 
     margin-right: 0;
 }
 
@@ -858,6 +856,7 @@ li {
 
 .populaire {
     margin: 0 -3% 0 -3%;
+    padding: 0;
 }
 
 .am1, .am2, .am3, .am4, .am5, .am6 {
