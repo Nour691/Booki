@@ -716,10 +716,8 @@ footer {
 /* Media Mobile */
 
 @media (max-width:804px) {
-     
-    h1 {
-        color: #0065FC;
-    }
+
+
 html, body {
     padding: 0;
     margin-right: 0.2px;
